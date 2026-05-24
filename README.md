@@ -1,4 +1,3 @@
-Here is a polished, professional, and scannable `README.md` for **DocuMind Enterprise RAG**. It reorganizes your project details into a clean structure with visual hierarchy, clear callouts, and well-formatted technical blocks.
 
 ---
 
@@ -181,9 +180,3 @@ Every answer generated is accompanied by an audit metadata package displaying:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 **Author:** Prantik Chongdar
-
-*AI / ML / RAG Engineering Specialist*
-
-```
-
-```
