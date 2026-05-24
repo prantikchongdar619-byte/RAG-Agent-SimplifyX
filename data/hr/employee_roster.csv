@@ -1,0 +1,51 @@
+employee_id,name,department,grade,salary,hire_date,manager_id,location,status
+EMP0001,Employee 1,Legal,L1,93857,2018-09-20,EMP0009,San Francisco,Active
+EMP0002,Employee 2,Legal,L7,77970,2020-07-27,EMP0008,San Francisco,Active
+EMP0003,Employee 3,Sales,L5,159119,2022-04-09,EMP0005,Austin,Active
+EMP0004,Employee 4,HR,L7,126643,2022-11-26,EMP0005,Remote,Active
+EMP0005,Employee 5,Legal,L7,133090,2021-07-26,EMP0003,Singapore,Active
+EMP0006,Employee 6,Legal,L7,136471,2020-01-28,EMP0002,Amsterdam,On Leave
+EMP0007,Employee 7,HR,L1,158569,2021-05-02,EMP0001,Remote,Active
+EMP0008,Employee 8,HR,L4,188631,2019-05-18,EMP0005,Singapore,On Leave
+EMP0009,Employee 9,Sales,L5,171736,2018-06-28,EMP0005,Singapore,Active
+EMP0010,Employee 10,Engineering,L4,244337,2022-02-13,EMP0008,Austin,Active
+EMP0011,Employee 11,Legal,L3,61115,2020-10-20,EMP0002,Austin,Active
+EMP0012,Employee 12,Sales,L2,71559,2021-12-20,EMP0004,Austin,Active
+EMP0013,Employee 13,Operations,L3,233757,2018-05-19,EMP0001,San Francisco,Active
+EMP0014,Employee 14,Legal,L7,177998,2019-07-19,EMP0001,Austin,On Leave
+EMP0015,Employee 15,Finance,L6,138013,2019-04-04,EMP0004,Austin,Active
+EMP0016,Employee 16,Sales,L6,237140,2021-11-17,EMP0003,San Francisco,On Leave
+EMP0017,Employee 17,Finance,L5,119138,2022-06-06,EMP0003,Amsterdam,Active
+EMP0018,Employee 18,Engineering,L5,104304,2018-12-19,EMP0004,Singapore,On Leave
+EMP0019,Employee 19,Legal,L6,247393,2022-07-09,EMP0003,Austin,Active
+EMP0020,Employee 20,Operations,L7,219941,2019-02-10,EMP0010,Remote,On Leave
+EMP0021,Employee 21,Finance,L5,115890,2020-01-07,EMP0007,Austin,On Leave
+EMP0022,Employee 22,Sales,L4,234759,2018-03-28,EMP0004,Austin,Active
+EMP0023,Employee 23,Finance,L5,70888,2022-04-08,EMP0005,San Francisco,On Leave
+EMP0024,Employee 24,Finance,L5,170702,2020-11-29,EMP0010,Amsterdam,On Leave
+EMP0025,Employee 25,Finance,L4,175417,2019-01-08,EMP0005,San Francisco,On Leave
+EMP0026,Employee 26,Operations,L7,78900,2019-08-30,EMP0008,Remote,On Leave
+EMP0027,Employee 27,HR,L6,238730,2022-09-04,EMP0007,Amsterdam,Active
+EMP0028,Employee 28,Sales,L4,72191,2019-03-03,EMP0003,Remote,Active
+EMP0029,Employee 29,IT,L3,194236,2021-03-21,EMP0002,Remote,Active
+EMP0030,Employee 30,Engineering,L6,145952,2020-07-17,EMP0003,San Francisco,Active
+EMP0031,Employee 31,Engineering,L3,248171,2022-07-20,EMP0002,Singapore,Active
+EMP0032,Employee 32,Sales,L6,89741,2023-02-22,EMP0003,Austin,Active
+EMP0033,Employee 33,Operations,L3,116951,2021-06-14,EMP0007,San Francisco,Active
+EMP0034,Employee 34,HR,L5,172230,2021-06-24,EMP0005,Singapore,On Leave
+EMP0035,Employee 35,Sales,L2,167445,2021-12-06,EMP0010,Singapore,On Leave
+EMP0036,Employee 36,Finance,L7,136854,2022-08-10,EMP0004,San Francisco,Active
+EMP0037,Employee 37,IT,L1,170878,2023-02-09,EMP0002,Singapore,Active
+EMP0038,Employee 38,Sales,L2,168223,2018-05-24,EMP0005,Singapore,Active
+EMP0039,Employee 39,Engineering,L4,210112,2020-11-23,EMP0006,Remote,Active
+EMP0040,Employee 40,Legal,L6,86780,2022-07-09,EMP0005,Austin,On Leave
+EMP0041,Employee 41,Legal,L5,63608,2019-04-23,EMP0005,Singapore,Active
+EMP0042,Employee 42,Finance,L2,90093,2019-08-01,EMP0009,Remote,Active
+EMP0043,Employee 43,Sales,L2,67971,2022-11-10,EMP0010,Singapore,Active
+EMP0044,Employee 44,Operations,L1,131342,2020-11-27,EMP0003,Amsterdam,Active
+EMP0045,Employee 45,HR,L4,143649,2020-02-06,EMP0005,Amsterdam,On Leave
+EMP0046,Employee 46,Engineering,L7,230340,2021-03-21,EMP0006,Singapore,Active
+EMP0047,Employee 47,HR,L4,91850,2021-10-09,EMP0003,Remote,On Leave
+EMP0048,Employee 48,IT,L7,128277,2020-05-09,EMP0001,Singapore,Active
+EMP0049,Employee 49,Operations,L6,151667,2018-02-20,EMP0007,San Francisco,Active
+EMP0050,Employee 50,Engineering,L5,103981,2020-04-09,EMP0007,Remote,Active

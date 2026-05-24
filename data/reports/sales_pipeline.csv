@@ -1,0 +1,31 @@
+deal_id,account,value_usd,stage,owner,close_date,probability,region
+DEAL0001,MediaGroup,429054,Proposal,Sales Rep 8,2024-10-26,41,EMEA
+DEAL0002,LogisticsPro,1602974,Closed Lost,Sales Rep 5,2024-10-02,75,EMEA
+DEAL0003,GovAgency,1516837,Qualification,Sales Rep 3,2024-11-06,94,EMEA
+DEAL0004,EduNet,1405309,Closed Won,Sales Rep 7,2024-12-22,24,North America
+DEAL0005,EduNet,1210849,Closed Won,Sales Rep 2,2024-10-22,70,EMEA
+DEAL0006,GovAgency,1344454,Negotiation,Sales Rep 3,2024-12-01,83,APAC
+DEAL0007,RetailGiant,580891,Closed Won,Sales Rep 2,2024-10-04,40,EMEA
+DEAL0008,HealthSys,1616459,Closed Won,Sales Rep 9,2024-12-02,48,APAC
+DEAL0009,GovAgency,74429,Closed Won,Sales Rep 3,2024-11-21,19,EMEA
+DEAL0010,RetailGiant,952297,Closed Won,Sales Rep 4,2024-10-27,79,APAC
+DEAL0011,GovAgency,115768,Closed Lost,Sales Rep 6,2024-12-01,91,APAC
+DEAL0012,MediaGroup,1869180,Closed Lost,Sales Rep 5,2024-12-01,50,APAC
+DEAL0013,GlobalBank,318361,Closed Won,Sales Rep 4,2024-12-25,76,North America
+DEAL0014,ManufactureCo,1335983,Negotiation,Sales Rep 7,2024-12-02,45,North America
+DEAL0015,ManufactureCo,1340402,Closed Lost,Sales Rep 8,2024-10-31,44,EMEA
+DEAL0016,MediaGroup,824039,Negotiation,Sales Rep 10,2024-12-22,86,EMEA
+DEAL0017,LogisticsPro,697117,Negotiation,Sales Rep 8,2024-10-11,51,North America
+DEAL0018,MediaGroup,1634828,Prospecting,Sales Rep 10,2024-10-17,48,North America
+DEAL0019,MediaGroup,1974866,Closed Won,Sales Rep 1,2024-11-05,28,North America
+DEAL0020,HealthSys,1792080,Qualification,Sales Rep 9,2024-10-26,82,APAC
+DEAL0021,LogisticsPro,801352,Closed Lost,Sales Rep 1,2024-10-21,33,North America
+DEAL0022,ManufactureCo,1297498,Closed Lost,Sales Rep 5,2024-11-09,41,North America
+DEAL0023,GlobalBank,1678425,Closed Lost,Sales Rep 3,2024-11-15,33,North America
+DEAL0024,GlobalBank,1844927,Closed Lost,Sales Rep 5,2024-11-12,19,EMEA
+DEAL0025,RetailGiant,1541566,Prospecting,Sales Rep 3,2024-12-14,20,North America
+DEAL0026,TechCorp,1651369,Closed Lost,Sales Rep 6,2024-11-21,80,North America
+DEAL0027,GovAgency,588983,Closed Won,Sales Rep 1,2024-11-03,27,North America
+DEAL0028,TechCorp,1910449,Negotiation,Sales Rep 4,2024-12-06,85,APAC
+DEAL0029,GovAgency,903975,Proposal,Sales Rep 2,2024-12-19,34,APAC
+DEAL0030,LogisticsPro,760232,Closed Won,Sales Rep 8,2024-10-01,15,EMEA

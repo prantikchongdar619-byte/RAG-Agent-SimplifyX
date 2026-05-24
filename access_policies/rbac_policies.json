@@ -1,0 +1,104 @@
+{
+  "roles": {
+    "executive": {
+      "description": "C-suite and VP level employees",
+      "allowed_sources": [
+        "hr",
+        "reports",
+        "documents",
+        "compliance",
+        "logs"
+      ],
+      "clearance_level": 5
+    },
+    "hr_manager": {
+      "description": "Human Resources department managers",
+      "allowed_sources": [
+        "hr",
+        "documents"
+      ],
+      "clearance_level": 3
+    },
+    "finance_analyst": {
+      "description": "Finance department analysts",
+      "allowed_sources": [
+        "reports",
+        "documents"
+      ],
+      "clearance_level": 3
+    },
+    "it_security": {
+      "description": "IT and Security Operations staff",
+      "allowed_sources": [
+        "documents",
+        "logs"
+      ],
+      "clearance_level": 4
+    },
+    "legal_compliance": {
+      "description": "Legal and Compliance team members",
+      "allowed_sources": [
+        "compliance",
+        "documents"
+      ],
+      "clearance_level": 4
+    },
+    "employee": {
+      "description": "General employees, all departments",
+      "allowed_sources": [
+        "documents"
+      ],
+      "clearance_level": 1
+    }
+  },
+  "document_classifications": {
+    "PUBLIC": {
+      "min_clearance": 1
+    },
+    "INTERNAL": {
+      "min_clearance": 1
+    },
+    "RESTRICTED": {
+      "min_clearance": 3
+    },
+    "CONFIDENTIAL": {
+      "min_clearance": 4
+    },
+    "TOP_SECRET": {
+      "min_clearance": 5
+    }
+  },
+  "source_to_classification": {
+    "documents": "INTERNAL",
+    "hr": "RESTRICTED",
+    "reports": "CONFIDENTIAL",
+    "compliance": "RESTRICTED",
+    "logs": "CONFIDENTIAL"
+  },
+  "users": {
+    "alice@acme.com": {
+      "role": "executive",
+      "name": "Alice Chen"
+    },
+    "bob@acme.com": {
+      "role": "hr_manager",
+      "name": "Bob Smith"
+    },
+    "carol@acme.com": {
+      "role": "finance_analyst",
+      "name": "Carol Jones"
+    },
+    "dave@acme.com": {
+      "role": "it_security",
+      "name": "Dave Kumar"
+    },
+    "eve@acme.com": {
+      "role": "legal_compliance",
+      "name": "Eve Martinez"
+    },
+    "frank@acme.com": {
+      "role": "employee",
+      "name": "Frank Lee"
+    }
+  }
+}
